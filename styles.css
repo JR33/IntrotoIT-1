@@ -16,6 +16,7 @@ p {
   font-size: 16px;
   color: black;
   text-align: left;
+  width: 50%;
 }
 .me {
 	width: 400px;
